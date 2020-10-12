@@ -1,0 +1,82 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.fa {
+    padding: 12px;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+    border-radius: 50%;
+}
+.fa:hover {
+    opacity:0.7;
+}
+.fa-facebook {
+    background-color:white;
+    color:#3b5999;
+}
+.fa-facebook:hover {
+    background-color:#3b5999;
+    color:white;
+}
+.fa-twitter {
+    background: white;
+    color:#55acee;
+}
+.fa-twitter:hover {
+    background: #55acee;
+    color:white;
+}
+.fa-google {
+    background: white;
+    color:#dd4b39;
+}
+.fa-google:hover {
+    background: #dd4b39;
+    color:white;
+}
+.fa-linkedin {
+    background: white;
+    color:#0077B5;
+}
+.fa-linkedin:hover {
+    background: #0077B5;
+    color:white;
+}
+.jumbotron {
+  padding-top: 20vh;
+  background-image: url('https://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1500px 400px;
+  background-blend-mode: 0.7;
+}
+h1,h4,h6 {
+    color : #72ab00
+}
+.message {
+    padding:15px;
+    text-align:center;
+}
+.sansita {
+    font-family: 'Sansita Swashed', cursive;
+  }
+
+.title {
+    color :#3282b8;
+}
+.name {
+    color:#f7f2e7 !important;
+}
+.gallery {
+    margin: auto;
+    text-align: center;
+}
+.dark {
+    color:black;
+}
+
